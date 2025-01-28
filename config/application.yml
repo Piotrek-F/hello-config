@@ -1,5 +1,5 @@
 greeting:
-  message: Czołem!
+  message: Witaj, świecie!
 
 eureka:
   client:
